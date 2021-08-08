@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webfolio-adith/static/css/main.4c66cb00.chunk.css",
+    "main.js": "/webfolio-adith/static/js/main.10a4c403.chunk.js",
+    "main.js.map": "/webfolio-adith/static/js/main.10a4c403.chunk.js.map",
+    "runtime-main.js": "/webfolio-adith/static/js/runtime-main.bed1ea95.js",
+    "runtime-main.js.map": "/webfolio-adith/static/js/runtime-main.bed1ea95.js.map",
+    "static/js/2.f86b7a5d.chunk.js": "/webfolio-adith/static/js/2.f86b7a5d.chunk.js",
+    "static/js/2.f86b7a5d.chunk.js.map": "/webfolio-adith/static/js/2.f86b7a5d.chunk.js.map",
+    "static/js/3.9c47c1f5.chunk.js": "/webfolio-adith/static/js/3.9c47c1f5.chunk.js",
+    "static/js/3.9c47c1f5.chunk.js.map": "/webfolio-adith/static/js/3.9c47c1f5.chunk.js.map",
+    "index.html": "/webfolio-adith/index.html",
+    "static/css/main.4c66cb00.chunk.css.map": "/webfolio-adith/static/css/main.4c66cb00.chunk.css.map",
+    "static/js/2.f86b7a5d.chunk.js.LICENSE.txt": "/webfolio-adith/static/js/2.f86b7a5d.chunk.js.LICENSE.txt",
+    "static/media/coder.png": "/webfolio-adith/static/media/coder.eb72c3bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bed1ea95.js",
+    "static/js/2.f86b7a5d.chunk.js",
+    "static/css/main.4c66cb00.chunk.css",
+    "static/js/main.10a4c403.chunk.js"
+  ]
+}
